@@ -1,3 +1,4 @@
+=begin
 describe 'Artist' do
   let(:artist) {Artist.new('Michael Jackson')}
 
@@ -54,3 +55,4 @@ describe 'Artist' do
     end
   end
 end
+=end

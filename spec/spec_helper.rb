@@ -1,3 +1,4 @@
+=begin
 require_relative "../lib/artist.rb"
 require_relative "../lib/song.rb"
 require_relative "../lib/mp3_importer.rb"
@@ -78,5 +79,5 @@ RSpec.configure do |config|
     # a real object. This is generally recommended.
     mocks.verify_partial_doubles = true
   end
-=end
 end
+=end
